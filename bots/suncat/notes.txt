@@ -1,0 +1,1 @@
+http://suncatdev.edina.ac.uk:31001/de_suncat?operation=searchRetrieve&version=1.1&startRecord=1&maximumRecords=10&query=cql.serverChoice%3Da
